@@ -1,11 +1,11 @@
 +++
-title = "A publication title, such as title of a paper"
+title = "Distress and sleep quality in young amphetamine-type stimulant users with an affective or psychotic illness."
 
 # Date first published.
-date = "2013-07-01"
+date = "2018-02-07"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["First author's name", "Second author's name"]
+authors = ["JJ Crouse", "RSC Lee", "D White", "AA Moustafa", "IB Hickie", "DF Hermens"]
 
 # Publication type.
 # Legend:
@@ -16,15 +16,13 @@ authors = ["First author's name", "Second author's name"]
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["1"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *International Conference on Academic*. You may use *Markdown* for italics etc."
-publication_short = "In *ICA*"
+publication = "Psychiatry Research"
 
 # Abstract and optional shortened version.
-abstract = "The abstract. Markdown and math can be used (note that math may require escaping as detailed in the red alert box below)."
-abstract_short = "A short version of the abstract."
+abstract = "Misuse of amphetamine-type stimulant (ATS) drugs may disrupt key neurodevelopmental processes in young people and confer protracted neurocognitive and psychopathological harm. ATS users with a co-occurring psychiatric illness are typically excluded from research, reducing generalisability of findings. Accordingly, we conducted a cross-sectional examination of key clinical, sleep, socio-occupational and neurocognitive measures in current, past and never users of ATS drugs who were accessing a youth mental health service (headspace) for affective- or psychotic-spectrum illnesses. Contrary to hypotheses, groups did not differ in psychotic symptomology, socio-occupational functioning or neurocognitive performance. Current ATS users were however significantly more distressed and reported poorer subjective sleep quality and greater subjective sleep disturbances than never users, with a trend toward greater depressive symptomology in current users. Regression analyses revealed that depressive symptoms, daily ATS use and socio-occupational functioning predicted distress, and depressive symptoms and distress predicted subjective sleep quality. Our findings suggest that distress and poor sleep quality reflect a particular pathophysiology among ATS-using patients, which may negatively impact treatment engagement. Delineating the factors that disrupt social and neurobiological development in young people (such as substance use) warrants further investigation, including longitudinal study."
 
 # Featured image thumbnail (optional)
 image_preview = ""
@@ -39,7 +37,7 @@ selected = true
 projects = []
 
 # Links (optional).
-url_pdf = "pdf/my-paper-name.pdf"
+url_pdf = "https://linkinghub.elsevier.com/retrieve/pii/S0165-1781(17)31268-4"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -63,6 +61,6 @@ highlight = true
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
 image = "headers/bubbles-wide.jpg"
-caption = "My caption 😄"
+caption = ""
 
 +++
